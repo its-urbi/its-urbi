@@ -1,1 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640"><!--!Font Awesome Free 7.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2026 Fonticons, Inc.--><path d="M128 96L162.9 491.8L319.5 544L477.1 491.8L512 96L128 96zM436.2 223.9L252.4 223.9L256.5 273.3L432.1 273.3L418.5 421.7L320.6 448.7L320.6 449L319.5 449L220.8 421.7L214.8 345.9L262.5 345.9L266 384L319.5 398.5L373.2 384L379.2 321.8L212.3 321.8L199.5 176.2L440.6 176.2L436.2 223.9z"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" baseProfile="tiny" version="1.2" viewBox="0 0 512 512">
+  <!-- Generator: Adobe Illustrator 30.1.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 136)  -->
+  <path id="html5" d="M98.29,72l28.67,325.12,128.64,42.88,129.46-42.88,28.67-325.12H98.29ZM351.45,177.06h-150.98l3.37,40.58h144.24l-11.17,121.9-80.42,22.18v.25h-.9l-81.07-22.42-4.93-62.26h39.18l2.88,31.3,43.95,11.91,44.11-11.91,4.93-51.09h-137.1l-10.51-119.6h198.05l-3.61,39.18-.02-.02Z" fill="#e34c26"/>
+</svg>
