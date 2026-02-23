@@ -14,6 +14,6 @@ and a small AutoHotkey 2.0 script that acts as WIN key replacer to bring search 
   </table>
 </div>
 
-<h1 />
+<h1><!-- JUST TO CREATE SLIM SEPARATOR LINE --></h1>
 
 <p align="center"><img src="icons/URB!.svg" alt="URB!" width="128"/></p>
